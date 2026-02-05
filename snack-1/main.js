@@ -16,4 +16,4 @@ else if (firstNumber < secondNumber) {
 else {
     console.log('I due numeri sono uguali');
 }
-/* console.log(firstNumber, secondNumber); */
+
